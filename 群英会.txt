@@ -1,0 +1,13 @@
+测试地址：http://qyh.hushibing.com
+
+前台账号/密码 ：jstest001       abc123456
+
+    数据库host地址：147.92.41.204
+
+后台测试地址：http://qyh-admin.hushibing.com
+
+后台账号：
+账号：jsadministrator  
+密码：123456
+  安全吗：898989
+ 
